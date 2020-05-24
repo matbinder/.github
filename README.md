@@ -4,10 +4,10 @@
 ## Density Functional Theory
 | Name | Repository | Documentation | MyBinder | Mybinder Repository |
 |------| :--------: | :-----------: | :------: | :-----------------: |
-| [Quantum Espresso](http://www.quantum-espresso.org) | [:package:](https://gitlab.com/QEF/q-e) | [:books:](http://www.quantum-espresso.org/Doc/user_guide/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/quantum-espresso-example/master?filepath=quantumespresso.ipynb) | [:rocket:](https://github.com/matbinder/quantum-espresso-example) |
+| [Abinit](https://www.abinit.org/) | [:package:](https://github.com/abinit) | [:books:](https://wiki.abinit.org/doku.php) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/abinit-example/master?filepath=example.ipynb) | [:rocket:](https://github.com/matbinder/abinit-example) |
 | [CP2K](https://www.cp2k.org) | [:package:](https://github.com/cp2k/cp2k) | [:books:](https://manual.cp2k.org) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/cp2k-example/master?filepath=pycp2k.ipynb) | [:rocket:](https://github.com/matbinder/cp2k-example) |
 | [GPAW](https://wiki.fysik.dtu.dk/gpaw/) | [:package:](https://gitlab.com/gpaw/gpaw) | [:books:](https://wiki.fysik.dtu.dk/gpaw/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/gpaw-example/master?filepath=ase.ipynb) | [:rocket:](https://github.com/matbinder/gpaw-example) |
-| [Abinit](https://www.abinit.org/) | [:package:](https://github.com/abinit) | [:books:](https://wiki.abinit.org/doku.php) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/abinit-example/master?filepath=example.ipynb) | [:rocket:](https://github.com/matbinder/abinit-example) |
+| [Quantum Espresso](http://www.quantum-espresso.org) | [:package:](https://gitlab.com/QEF/q-e) | [:books:](http://www.quantum-espresso.org/Doc/user_guide/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/quantum-espresso-example/master?filepath=quantumespresso.ipynb) | [:rocket:](https://github.com/matbinder/quantum-espresso-example) |
 | [Siesta](https://departments.icmab.es/leem/siesta/) | [:package:](https://gitlab.com/siesta-project/siesta) | [:books:](https://departments.icmab.es/leem/siesta/Documentation/index.html) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/siesta-example/master?filepath=ase.ipynb) | [:rocket:](https://github.com/matbinder/siesta-example) |
 | [SPHInX](https://sxrepo.mpie.de) | [:package:](https://sxrepo.mpie.de/projects/sphinx/repository) | [:books:](https://sxrepo.mpie.de/attachments/download/43/sphinx-manual-2.6.1.pdf) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/sphinx-example/master?filepath=pyiron.ipynb) | [:rocket:](https://github.com/matbinder/sphinx-example) |
 
@@ -15,15 +15,16 @@
 ## Molecular Dynamics
 | Name | Repository | Documentation | MyBinder | Mybinder Repository |
 |------| :--------: | :-----------: | :------: | :-----------------: |
-| [OpenKIM](https://openkim.org) | [:package:](https://github.com/openkim) | [:books:](https://openkim.org/doc/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/openkim-example/master?filepath=kimpy.ipynb) | [:rocket:](https://github.com/matbinder/openkim-example) |
 | [LAMMPS](https://lammps.sandia.gov) | [:package:](https://github.com/lammps/lammps) | [:books:](https://lammps.sandia.gov/doc/Manual.html) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/lammps-example/master?filepath=pylammps.ipynb) | [:rocket:](https://github.com/matbinder/lammps-example) |
+| [OpenKIM](https://openkim.org) | [:package:](https://github.com/openkim) | [:books:](https://openkim.org/doc/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/openkim-example/master?filepath=kimpy.ipynb) | [:rocket:](https://github.com/matbinder/openkim-example) |
+| [yaff](http://molmod.github.io/yaff) | [:package:](https://github.com/molmod/yaff) | [:books:](http://molmod.github.io/yaff) |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmod/Tutorial/master/) | [:rocket:](https://github.com/molmod/Tutorial) |
 
 
 ## Structure Analysis
 | Name | Repository | Documentation | MyBinder | Mybinder Repository |
 |------| :--------: | :-----------: | :------: | :-----------------: |
-| [pyscal](https://pyscal.com) | [:package:](https://github.com/srmnitc/pyscal) | [:books:](https://pyscal.com) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srmnitc/pybop/master?filepath=examples%2F) | [:rocket:](https://github.com/srmnitc/pyscal) |
 | [Ovito](https://www.ovito.org) | [:package:](https://gitlab.com/stuko/ovito) | [:books:](https://www.ovito.org/docs/current/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/ovito-example/master?filepath=ovito.ipynb) | [:rocket:](https://github.com/matbinder/ovito-example) |
+| [pyscal](https://pyscal.com) | [:package:](https://github.com/srmnitc/pyscal) | [:books:](https://pyscal.com) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srmnitc/pybop/master?filepath=examples%2F) | [:rocket:](https://github.com/srmnitc/pyscal) |
 
 
 ## Cluster Expansion
@@ -36,9 +37,9 @@
 ## Thermo Dynamics
 | Name | Repository | Documentation | MyBinder | Mybinder Repository |
 |------| :--------: | :-----------: | :------: | :-----------------: |
-| [pycalphad](https://pycalphad.org/) | [:package:](https://github.com/pycalphad/pycalphad) | [:books:](https://pycalphad.org/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pycalphad/binder/master) | [:rocket:](https://github.com/pycalphad/binder) |
 | [ESPEI](http://espei.org) | [:package:](https://github.com/PhasesResearchLab/ESPEI) | [:books:](http://espei.org) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/espei-example/master?filepath=espei.ipynb) | [:rocket:](https://github.com/matbinder/espei-example) |
 | [Phonopy](https://phonopy.github.io/phonopy/) | [:package:](https://github.com/phonopy/phonopy) | [:books:](https://phonopy.github.io/phonopy/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/phonopy-example/master?filepath=phonolammps.ipynb) | [:rocket:](https://github.com/matbinder/phonopy-example) |
+| [pycalphad](https://pycalphad.org/) | [:package:](https://github.com/pycalphad/pycalphad) | [:books:](https://pycalphad.org/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pycalphad/binder/master) | [:rocket:](https://github.com/pycalphad/binder) |
 | [pymatnest](https://github.com/libAtoms/pymatnest) | [:package:](https://github.com/libAtoms/pymatnest) | [:books:](https://github.com/libAtoms/pymatnest) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/pymatnest-example/master?filepath=pymatnest.ipynb) | [:rocket:](https://github.com/matbinder/pymatnest-example) |
 
 
@@ -51,6 +52,7 @@
 ## Simulation Frameworks 
 | Name | Repository | Documentation | MyBinder | Mybinder Repository |
 |------| :--------: | :-----------: | :------: | :-----------------: |
+[ [AiiDa](http://www.aiida.net/) | [:package:](https://github.com/aiidateam/aiida-core) | [:books:](https://aiida.readthedocs.io) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aiidateam/aiida_demos/master/?urlpath=apps/apps/home/start.ipynb) | [:rocket:](https://github.com/aiidateam/aiida_demos) |
 | [ASE](https://wiki.fysik.dtu.dk/ase/) | [:package:](https://gitlab.com/ase/ase) | [:books:](https://wiki.fysik.dtu.dk/ase/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/ase-examples/master) | [:rocket:](https://github.com/matbinder/ase-examples) |
 | [pyiron](https://pyiron.org) | [:package:](https://github.com/pyiron/pyiron) | [:books:](https://pyiron.readthedocs.io/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyiron/pyiron/master) | [:rocket:](https://github.com/pyiron/pyiron) |
 
