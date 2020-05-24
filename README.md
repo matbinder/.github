@@ -17,6 +17,7 @@
 |------| :--------: | :-----------: | :------: | :-----------------: |
 | [LAMMPS](https://lammps.sandia.gov) | [:package:](https://github.com/lammps/lammps) | [:books:](https://lammps.sandia.gov/doc/Manual.html) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/lammps-example/master?filepath=pylammps.ipynb) | [:rocket:](https://github.com/matbinder/lammps-example) |
 | [OpenKIM](https://openkim.org) | [:package:](https://github.com/openkim) | [:books:](https://openkim.org/doc/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/openkim-example/master?filepath=kimpy.ipynb) | [:rocket:](https://github.com/matbinder/openkim-example) |
+| [PyLammpsMPI](https://github.com/pyiron/pylammpsmpi) | [:package:](https://github.com/pyiron/pylammpsmpi) | [:books:](https://github.com/pyiron/pylammpsmpi) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyiron/pylammpsmpi/master) | [:rocket:](https://github.com/pyiron/pylammpsmpi) |
 | [yaff](http://molmod.github.io/yaff) | [:package:](https://github.com/molmod/yaff) | [:books:](http://molmod.github.io/yaff) |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmod/Tutorial/master/) | [:rocket:](https://github.com/molmod/Tutorial) |
 
 
