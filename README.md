@@ -1,5 +1,9 @@
 # Awesome mybinder examples for material science
 
+![Preview](qe.gif)
+
+Accelerating your research, requires trying new tools and applying them to your research projects. To simplify this process we compiled a list of tools which are available on mybinder and can be tested directly in your browser with just click of a button. Above you see an example of testing the quantum espresso DFT code, which previously required downloading the code, installing the required dependencies and finally compiling it. We found that many researchers struggle with this process, which hinders their research as well as the spread of new methods. We therefore started to compile this list of general examples. You can try them online or download the corresponding repositories and run the example locally. 
+
 # Theory
 ## Density Functional Theory
 | Name | Repository | Documentation | MyBinder | Mybinder Repository |
