@@ -77,6 +77,7 @@ Accelerating your research, requires trying new tools and applying them to your 
 | Name | Repository | Documentation | MyBinder | Mybinder Repository |
 |------| :--------: | :-----------: | :------: | :-----------------: |
 | [TEMMETA](https://github.com/din14970/TEMMETA) | [:package:](https://github.com/din14970/TEMMETA) | [:books:](https://github.com/din14970/TEMMETA) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/din14970/TEMMETA/master?filepath=examples%2FTEMMETA%20demonstration.ipynb) | [:rocket:](https://github.com/din14970/TEMMETA) |
+| [match-series](https://github.com/berkels/match-series) | [:package:](https://github.com/berkels/match-series) | [:books:](https://github.com/berkels/match-series) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/match-series-example/master?filepath=match-series.ipynb) | [:rocket:](https://github.com/jan-janssen/match-series-example) |
 
 # Other
 
