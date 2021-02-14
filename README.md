@@ -57,7 +57,7 @@ Accelerating your research, requires trying new tools and applying them to your 
 | [AtomicRex](https://www.atomicrex.org) | [:package:](https://gitlab.com/atomicrex/atomicrex) | [:books:](https://www.atomicrex.org) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/atomicrex-example/master) | [:rocket:](https://github.com/matbinder/atomicrex-example) |
 | [kliff](https://kliff.readthedocs.io) | [:package:](https://github.com/mjwen/kliff) | [:books:](https://kliff.readthedocs.io) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/kliff-example/master?filepath=kliff.ipynb) | [:rocket:](https://github.com/matbinder/kliff-example) |
 | [n2p2](https://compphysvienna.github.io/n2p2/) | [:package:](https://github.com/CompPhysVienna/n2p2) | [:books:](https://compphysvienna.github.io/n2p2/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/pynnp-example/HEAD?filepath=example.ipynb) | [:rocket:](https://github.com/matbinder/pynnp-example) |
-| [fitsnap](https://github.com/FitSNAP/FitSNAP) | [:package:](https://github.com/FitSNAP/FitSNAP) | [:books:](https://github.com/FitSNAP/FitSNAP) | [![Binder](https://mybinder.org/v2/gh/matbinder/fitsnap-example/HEAD?filepath=fitsnap.ipynb) | [:rocket:](https://github.com/matbinder/fitsnap-example) |
+| [fitsnap](https://github.com/FitSNAP/FitSNAP) | [:package:](https://github.com/FitSNAP/FitSNAP) | [:books:](https://github.com/FitSNAP/FitSNAP) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/fitsnap-example/HEAD?filepath=fitsnap.ipynb) | [:rocket:](https://github.com/matbinder/fitsnap-example) |
 
 
 ## Simulation Frameworks 
